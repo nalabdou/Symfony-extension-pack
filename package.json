@@ -1,0 +1,44 @@
+{
+    "name": "symfony-extension-pack",
+    "displayName": "Symfony Extension Pack",
+    "description": "Everything you need for Symfony development",
+    "publisher": "nadim-vscode",
+    "author": {
+        "name": "Nadim Al Abdou",
+        "url": "https://nalabdou.com"
+    },
+    "homepage": "https://github.com/nalabdou/Symfony-code-snippets/blob/master/README.md",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nalabdou/Symfony-code-snippets"
+    },
+    "bugs": "https://github.com/nalabdou/Symfony-code-snippets/issues",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "Programming Languages"
+    ],
+    "keywords": [
+        "symfony",
+        "twig",
+        "php",
+        "symfony 5",
+        "pack"
+    ],
+    "extensionPack": [
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "felixfbecker.php-intellisense",
+        "MehediDracula.php-namespace-resolver",
+        "nadim-vscode.infinity-dark-theme",
+        "nadim-vscode.symfony-code-snippets",
+        "neilbrayfield.php-docblocker",
+        "phproberto.vscode-php-getters-setters",
+        "redhat.vscode-yaml",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
