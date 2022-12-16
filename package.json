@@ -7,14 +7,14 @@
         "name": "Nadim Al Abdou",
         "url": "https://nalabdou.com"
     },
-    "homepage": "https://github.com/nalabdou/Symfony-code-snippets/blob/master/README.md",
-    "license": "SEE LICENSE IN LICENSE.md",
+    "homepage": "https://github.com/nalabdou/Symfony-extension-pack/blob/master/README.md",
+    "license": "SEE LICENSE IN LICENSE",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nalabdou/Symfony-code-snippets"
+        "url": "https://github.com/nalabdou/Symfony-extension-pack"
     },
-    "bugs": "https://github.com/nalabdou/Symfony-code-snippets/issues",
-    "version": "1.0.0",
+    "bugs": "https://github.com/nalabdou/Symfony-extension-pack/issues",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -31,11 +31,11 @@
     ],
     "extensionPack": [
         "bmewburn.vscode-intelephense-client",
-        "felixfbecker.php-debug",
         "felixfbecker.php-intellisense",
         "MehediDracula.php-namespace-resolver",
         "nadim-vscode.infinity-dark-theme",
         "nadim-vscode.symfony-code-snippets",
+        "nadim-vscode.twig-code-snippets",
         "neilbrayfield.php-docblocker",
         "phproberto.vscode-php-getters-setters",
         "redhat.vscode-yaml",
